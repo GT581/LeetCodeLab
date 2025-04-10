@@ -1,0 +1,996 @@
+Problem Number,Problem Name,Difficulty,Top 75,Top 150
+1,Two Sum,Easy,N,Y
+2,Add Two Numbers,Medium,N,Y
+3,Longest Substring Without Repeating Characters,Medium,N,Y
+4,Median Of Two Sorted Arrays,Hard,N,Y
+5,Longest Palindromic Substring,Medium,N,Y
+6,Zigzag Conversion,Medium,N,Y
+7,Reverse Integer,Medium,N,N
+8,String To Integer (atoi),Medium,N,N
+9,Palindrome Number,Easy,N,Y
+10,Regular Expression Matching,Hard,N,N
+11,Container With Most Water,Medium,Y,Y
+12,Integer To Roman,Medium,N,Y
+13,Roman To Integer,Easy,N,Y
+14,Longest Common Prefix,Easy,N,Y
+15,Three Sum,Medium,N,N
+16,3Sum Closest,Medium,N,N
+17,Letter Combinations Of A Phone Number,Medium,Y,Y
+18,Four Sum,Medium,N,N
+19,Remove Nth Node From End Of List,Medium,N,Y
+20,Valid Parentheses,Easy,N,Y
+21,Merge Two Sorted Lists,Easy,N,Y
+22,Generate Parentheses,Medium,N,Y
+23,Merge K Sorted Lists,Hard,N,Y
+24,Swap Nodes In Pairs,Medium,N,N
+25,Reverse Nodes In K-Group,Hard,N,Y
+26,Remove Duplicates From Sorted Array,Easy,N,Y
+27,Remove Element,Easy,N,Y
+28,Implement strStr(),Easy,N,N
+29,Divide Two Integers,Medium,N,N
+30,Substring with Concatenation of All Words,Hard,N,Y
+31,Next Permutation,Medium,N,N
+32,Longest Valid Parentheses,Hard,N,N
+33,Search in Rotated Sorted Array,Medium,N,Y
+34,Find First and Last Position of Element in Sorted Array,Medium,N,Y
+35,Search Insert Position,Easy,N,Y
+36,Valid Sudoku,Medium,N,Y
+37,Sudoku Solver,Hard,N,N
+38,Count And Say,Medium,N,N
+39,Combination Sum,Medium,N,Y
+40,Combination Sum II,Medium,N,N
+41,First Missing Positive,Hard,N,N
+42,Trapping Rain Water,Hard,N,Y
+43,Multiply Strings,Medium,N,N
+44,Wildcard Matching,Hard,N,N
+45,Jump Game II,Medium,N,Y
+46,Permutations,Medium,N,Y
+47,Permutations II,Medium,N,N
+48,Rotate Image,Medium,N,Y
+49,Group Anagrams,Medium,N,Y
+50,"Pow(x,n)",Medium,N,N
+51,N-Queens,Hard,N,N
+52,N-Queens II,Hard,N,Y
+53,Maximum Subarray,Easy,N,Y
+54,Spiral Matrix,Medium,N,Y
+55,Jump Game,Medium,N,Y
+56,Merge Intervals,Medium,N,Y
+57,Insert Interval,Medium,N,Y
+58,Length Of Last Word,Easy,N,Y
+59,Spiral Matrix II,Medium,N,N
+60,Permutation Sequence,Hard,N,N
+61,Rotate List,Medium,N,Y
+62,Unique Paths,Medium,Y,N
+63,Unique Paths II,Medium,N,Y
+64,Minimum Path Sum,Medium,N,Y
+65,Valid Number,Hard,N,N
+66,Plus One,Easy,N,Y
+67,Add Binary,Easy,N,Y
+68,Text Justification,Hard,N,Y
+69,Sqrt(x),Easy,N,Y
+70,Climbing Stairs,Easy,N,Y
+71,Simplify Path,Medium,N,Y
+72,Edit Distance,Hard,Y,Y
+73,Set Matrix Zeroes,Medium,N,Y
+74,Search A 2D Matrix,Medium,N,Y
+75,Sort Colors,Medium,N,N
+76,Minimum Window Substring,Hard,N,Y
+77,Combinations,Medium,N,Y
+78,Subsets,Medium,N,N
+79,Word Search,Medium,N,Y
+80,Remove Duplicates From Sorted Array II,Medium,N,Y
+81,Search In Rotated Sorted Array II,Medium,N,N
+82,Remove Duplicates From Sorted List II,Medium,N,Y
+83,Remove Duplicates From Sorted List,Easy,N,N
+84,Largest Rectangle In Histogram,Hard,N,N
+85,Maximal Rectangle,Hard,N,N
+86,Partition List,Medium,N,Y
+87,Scramble String,Hard,N,N
+88,Merge Sorted Array,Easy,N,Y
+89,Gray Code,Medium,N,N
+90,Subsets II,Medium,N,N
+91,Decode Ways,Medium,N,N
+92,Reverse Linked List II,Medium,N,Y
+93,Restore IP Addresses,Medium,N,N
+94,Binary Tree Inorder Traversal,Easy,N,N
+95,Unique Binary Search Trees II,Medium,N,N
+96,Unique Binary Search Trees,Medium,N,N
+97,Interleaving String,Medium,N,Y
+98,Validate Binary Search Tree,Medium,N,Y
+99,Recover Binary Search Tree,Medium,N,N
+100,Same Tree,Easy,N,Y
+101,Symmetric Tree,Easy,N,Y
+102,Binary Tree Level Order Traversal,Medium,N,Y
+103,Binary Tree Zigzag Level Order Traversal,Medium,N,Y
+104,Maximum Depth Of Binary Tree,Easy,Y,Y
+105,Construct Binary Tree From Preorder And Inorder Traversal,Medium,N,Y
+106,Construct Binary Tree From Inorder And Postorder Traversal,Medium,N,Y
+107,Binary Tree Level Order Traversal II,Medium,N,N
+108,Convert Sorted Array To Binary Search Tree,Easy,N,Y
+109,Convert Sorted List To Binary Search Tree,Medium,N,N
+110,Balanced Binary Tree,Easy,N,N
+111,Minimum Depth Of Binary Tree,Easy,N,N
+112,Path Sum,Easy,N,Y
+113,Path Sum II,Medium,N,N
+114,Flatten Binary Tree To Linked List,Medium,N,Y
+115,Distinct Subsequences,Hard,N,N
+116,Populating Next Right Pointers In Each Node,Medium,N,N
+117,Populating Next Right Pointers In Each Node II,Medium,N,Y
+118,Pascal’s Triangle,Easy,N,N
+119,Pascal’s Triangle II,Easy,N,N
+120,Triangle,Medium,N,Y
+121,Best Time To Buy And Sell Stock,Easy,N,Y
+122,Best Time To Buy And Sell Stock II,Medium,N,Y
+123,Best Time To Buy And Sell Stock III,Hard,N,Y
+124,Binary Tree Maximum Path Sum,Hard,N,Y
+125,Valid Palindrome,Easy,N,Y
+126,Word Ladder II,Hard,N,N
+127,Word Ladder,Hard,N,Y
+128,Longest Consecutive Sequence,Medium,N,Y
+129,Sum Root To Leaf Numbers,Medium,N,Y
+130,Surrounded Regions,Medium,N,Y
+131,Palindrome Partitioning,Medium,N,N
+132,Palindrome Partitioning II,Hard,N,N
+133,Clone Graph,Medium,N,Y
+134,Gas Station,Medium,N,Y
+135,Candy,Hard,N,Y
+136,Single Number,Easy,Y,Y
+137,Single Number II,Medium,N,Y
+138,Copy List With Random Pointer,Medium,N,Y
+139,Word Break,Medium,N,Y
+140,Word Break II,Hard,N,N
+141,Linked List Cycle,Easy,N,Y
+142,Linked List Cycle II,Medium,N,N
+143,Reorder List,Medium,N,N
+144,Binary Tree Preorder Traversal,Easy,N,N
+145,Binary Tree Postorder Traversal,Easy,N,N
+146,LRU Cache,Medium,N,Y
+147,Insertion Sort List,Medium,N,N
+148,Sort List,Medium,N,Y
+149,Max Points On A Line,Hard,N,Y
+150,Evaluate Reverse Polish Notation,Medium,N,Y
+151,Reverse Words In A String,Medium,Y,Y
+152,Maximum Product Subarray,Medium,N,N
+153,Find Minimum In Rotated Sorted Array,Medium,N,Y
+154,Find Minimum In Rotated Sorted Array II,Hard,N,N
+155,Min Stack,Easy,N,Y
+160,Intersection Of Two Linked Lists,Easy,N,N
+162,Find Peak Element,Medium,Y,Y
+164,Maximum Gap,Hard,N,N
+165,Compare Version Numbers,Medium,N,N
+166,Fraction To Recurring Decimal,Medium,N,N
+167,Two Sum II - Input Array Is Sorted,Easy,N,Y
+168,Excel Sheet Column Title,Easy,N,N
+169,Majority Element,Easy,N,Y
+171,Excel Sheet Column Number,Easy,N,N
+172,Factorial Trailing Zeroes,Medium,N,Y
+173,Binary Search Tree Iterator,Medium,N,Y
+174,Dungeon Game,Hard,N,N
+179,Largest Number,Medium,N,N
+187,Repeated DNA Sequences,Medium,N,N
+188,Best Time To Buy And Sell Stock IV,Hard,N,Y
+189,Rotate Array,Medium,N,Y
+190,Reverse Bits,Easy,N,Y
+191,Number Of 1 Bits,Easy,N,Y
+198,House Robber,Medium,Y,Y
+199,Binary Tree Right Side View,Medium,Y,Y
+200,Number of Islands,Medium,N,Y
+201,Bitwise And Of Numbers Range,Medium,N,Y
+202,Happy Number,Easy,N,Y
+203,Remove Linked List Elements,Easy,N,N
+204,Count Primes,Medium,N,N
+205,Isomorphic Strings,Easy,N,Y
+206,Reverse Linked List,Easy,Y,N
+207,Course Schedule,Medium,N,Y
+208,Implement Trie (Prefix Tree),Medium,Y,Y
+209,Minimum Size Subarray Sum,Medium,N,Y
+210,Course Schedule II,Medium,N,Y
+211,Design Add And Search Words Data Structure,Medium,N,Y
+212,Word Search II,Hard,N,Y
+213,House Robber II,Medium,N,N
+214,Shortest Palindrome,Hard,N,N
+215,Kth Largest Element In An Array,Medium,Y,Y
+216,Combination Sum III,Medium,Y,N
+217,Contains Duplicate,Easy,N,N
+219,Contains Duplicate II,Easy,N,Y
+220,Contains Duplicate III,Medium,N,N
+221,Maximal Square,Medium,N,Y
+222,Count Complete Tree Nodes,Medium,N,Y
+223,Rectangle Area,Medium,N,N
+224,Basic Calculator,Hard,N,Y
+225,Implement Stack Using Queues,Easy,N,N
+226,Invert Binary Tree,Easy,N,Y
+227,Basic Calculator II,Medium,N,N
+228,Summary Ranges,Easy,N,Y
+229,Majority Element II,Medium,N,N
+230,Kth Smallest Element In A BST,Medium,N,Y
+231,Power Of Two,Easy,N,N
+232,Implement Queue Using Stacks,Easy,N,N
+233,Number Of Digit One,Hard,N,N
+234,Palindrome Linked List,Easy,N,N
+235,Lowest Common Ancestor Of A Binary Search Tree,Easy,N,N
+236,Lowest Common Ancestor Of A Binary Tree,Medium,Y,Y
+237,Delete Node In A Linked List,Medium,N,N
+238,Product Of Array Except Self,Medium,Y,Y
+239,Sliding Window Maximum,Hard,N,N
+240,Search A 2D Matrix II,Medium,N,N
+241,Different Ways To Add Parentheses,Medium,N,N
+242,Valid Anagram,Easy,N,Y
+257,Binary Tree Paths,Easy,N,N
+258,Add Digits,Easy,N,N
+260,Single Number Iii,Medium,N,N
+263,Ugly Number,Easy,N,N
+264,Ugly Number II,Medium,N,N
+268,Missing Number,Easy,N,N
+273,Integer To English Words,Hard,N,N
+274,H-Index,Medium,N,Y
+275,H-Index II,Medium,N,N
+278,First Bad Version,Easy,N,N
+279,Perfect Squares,Medium,N,N
+282,Expression Add Operators,Hard,N,N
+283,Move Zeroes,Easy,Y,N
+284,Peeking Iterator,Medium,N,N
+287,Find The Duplicate Number,Medium,N,N
+289,Game Of Life,Medium,N,Y
+290,Word Pattern,Easy,N,Y
+292,Nim Game,Easy,N,N
+295,Find Median From Data Stream,Hard,N,Y
+297,Serialize And Deserialize Binary Tree,Hard,N,N
+299,Bulls And Cows,Medium,N,N
+300,Longest Increasing Subsequence,Medium,N,Y
+301,Remove Invalid Parentheses,Hard,N,N
+303,Range Sum Query - Immutable,Easy,N,N
+304,Range Sum Query 2D - Immutable,Medium,N,N
+306,Additive Number,Medium,N,N
+309,Best Time To Buy And Sell Stock With Cooldown,Medium,N,N
+310,Minimum Height Trees,Medium,N,N
+312,Burst Balloons,Hard,N,N
+313,Super Ugly Number,Medium,N,N
+315,Count Of Smaller Numbers After Self,Hard,N,N
+316,Remove Duplicate Letters,Medium,N,N
+318,Maximum Product Of Word Lengths,Medium,N,N
+319,Bulb Switcher,Medium,N,N
+321,Create Maximum Number,Hard,N,N
+322,Coin Change,Medium,N,Y
+326,Power Of Three,Easy,N,N
+327,Count Of Range Sum,Hard,N,N
+328,Odd Even Linked List,Medium,Y,N
+329,Longest Increasing Path In A Matrix,Hard,N,N
+330,Patching Array,Hard,N,N
+331,Verify Preorder Serialization Of A Binary Tree,Medium,N,N
+334,Increasing Triplet Subsequence,Medium,Y,N
+335,Self Crossing,Hard,N,N
+336,Palindrome Pairs,Hard,N,N
+337,House Robber III,Medium,N,N
+338,Counting Bits,Easy,Y,N
+341,Flatten Nested List Iterator,Medium,N,N
+342,Power Of Four,Easy,N,N
+343,Integer Break,Medium,N,N
+344,Reverse String,Easy,N,N
+345,Reverse Vowels Of A String,Easy,Y,N
+347,Top K Frequent Elements,Medium,N,N
+349,Intersection Of Two Arrays,Easy,N,N
+350,Intersection Of Two Arrays II,Easy,N,N
+352,Data Stream As Disjoint Intervals,Hard,N,N
+355,Design Twitter,Medium,N,N
+357,Count Numbers With Unique Digits,Medium,N,N
+365,Water And Jug Problem,Medium,N,N
+367,Valid Perfect Square,Easy,N,N
+368,Largest Divisible Subset,Medium,N,N
+371,Sum Of Two Integers,Medium,N,N
+372,Super Pow,Medium,N,N
+373,Find K Pairs With Smallest Sums,Medium,N,Y
+374,Guess Number Higher Or Lower,Easy,Y,N
+375,Guess Number Higher Or Lower II,Medium,N,N
+376,Wiggle Subsequence,Medium,N,N
+377,Combination Sum IV,Medium,N,N
+378,Kth Smallest Element In A Sorted Matrix,Medium,N,N
+380,Insert Delete GetRandom O(1),Easy,N,Y
+381,Insert Delete Getrandom O(1) - Duplicates Allowed,Hard,N,N
+382,Linked List Random Node,Medium,N,N
+383,Ransom Note,Easy,N,Y
+384,Shuffle An Array,Medium,N,N
+385,Mini Parser,Medium,N,N
+386,Lexicographical Numbers,Medium,N,N
+387,First Unique Character In A String,Easy,N,N
+388,Longest Absolute File Path,Medium,N,N
+389,Find The Difference,Easy,N,N
+390,Elimination Game,Medium,N,N
+391,Perfect Rectangle,Hard,N,N
+392,Is Subsequence,Easy,Y,Y
+393,UTF-8 Validation,Medium,N,N
+394,Decode String,Medium,Y,N
+395,Longest Substring With At Least K Repeating Characters,Medium,N,N
+396,Rotate Function,Medium,N,N
+397,Integer Replacement,Medium,N,N
+398,Random Pick Index,Medium,N,N
+399,Evaluate Division,Medium,Y,Y
+400,Nth Digit,Medium,N,N
+401,Binary Watch,Easy,N,N
+402,Remove K Digits,Medium,N,N
+403,Frog Jump,Hard,N,N
+404,Sum Of Left Leaves,Easy,N,N
+405,Convert A Number To Hexadecimal,Easy,N,N
+406,Queue Reconstruction By Height,Medium,N,N
+407,Trapping Rain Water II,Hard,N,N
+409,Longest Palindrome,Easy,N,N
+410,Split Array Largest Sum,Hard,N,N
+412,Fizz Buzz,Easy,N,N
+413,Arithmetic Slices,Medium,N,N
+414,Third Maximum Number,Easy,N,N
+415,Add Strings,Easy,N,N
+416,Partition Equal Subset Sum,Medium,N,N
+417,Pacific Atlantic Water Flow,Medium,N,N
+419,Battleships In A Board,Medium,N,N
+420,Strong Password Checker,Hard,N,N
+421,Maximum XOR of Two Numbers In An Array,Medium,N,N
+423,Reconstruct Original Digits From English,Medium,N,N
+424,Longest Repeating Character Replacement,Medium,N,N
+427,Construct Quad Tree,Medium,N,Y
+429,N-Ary Tree Level Order Traversal,Medium,N,N
+430,Flatten A Multilevel Doubly Linked List,Medium,N,N
+432,All O’One Data Structure,Hard,N,N
+433,Minimum Genetic Mutation,Medium,N,Y
+434,Number Of Segments In A String,Easy,N,N
+435,Non-Overlapping Intervals,Medium,Y,N
+436,Find Right Interval,Medium,N,N
+437,Path Sum III,Medium,Y,N
+438,Find All Anagrams In A String,Medium,N,N
+440,K-Th Smallest In Lexicographical Order,Hard,N,N
+441,Arranging Coins,Easy,N,N
+442,Find All Duplicates In An Array,Medium,N,N
+443,String Compression,Medium,Y,N
+445,Add Two Numbers II,Medium,N,N
+446,Arithmetic Slices II - Subsequence,Hard,N,N
+447,Number Of Boomerangs,Medium,N,N
+448,Find All Numbers Disappeared In An Array,Easy,N,N
+449,Serialize And Deserialize BST,Medium,N,N
+450,Delete Node In A BST,Medium,Y,N
+451,Sort Characters By Frequency,Medium,N,N
+452,Minimum Number Of Arrows To Burst Balloons,Medium,Y,Y
+453,Minimum Moves To Equal Array Elements,Medium,N,N
+454,Four Sum II,Medium,N,N
+455,Assign Cookies,Easy,N,N
+456,132 Pattern,Medium,N,N
+457,Circular Array Loop,Medium,N,N
+458,Poor Pigs,Hard,N,N
+459,Repeated Substring Pattern,Easy,N,N
+460,LFU Cache,Hard,N,N
+461,Hamming Distance,Easy,N,N
+462,Minimum Moves To Equal Array Elements II,Medium,N,N
+463,Island Perimeter,Easy,N,N
+464,Can I Win,Medium,N,N
+467,Unique Substrings In Wraparound String,Medium,N,N
+468,Validate IP Address,Medium,N,N
+470,Implement Rand10() Using Rand7(),Medium,N,N
+472,Concatenate Words,Hard,N,N
+473,Matchsticks To Square,Medium,N,N
+474,Ones And Zeroes,Medium,N,N
+475,Heaters,Medium,N,N
+476,Number Complement,Easy,N,N
+477,Total Hamming Distance,Medium,N,N
+478,Generate Random Point In A Circle,Medium,N,N
+479,Largest Palindrome Product,Hard,N,N
+480,Sliding Window Median,Hard,N,N
+481,Magical String,Medium,N,N
+482,License Key Formatting,Easy,N,N
+483,Smallest Good Base,Hard,N,N
+485,Max Consecutive Ones,Easy,N,N
+486,Predict The Winner,Medium,N,N
+488,Zuma Game,Hard,N,N
+491,Increasing Subsequences,Medium,N,N
+492,Construct The Rectangle,Easy,N,N
+493,Reverse Pairs,Hard,N,N
+494,Target Sum,Medium,N,N
+495,Teemo Attacking,Easy,N,N
+496,Next Greater Element I,Easy,N,N
+497,Random Point In Non-Overlapping Rectangles,Medium,N,N
+498,Diagonal Traverse,Medium,N,N
+500,Keyboard Row,Easy,N,N
+501,Find Mode In Binary Search Tree,Easy,N,N
+502,IPO,Hard,N,Y
+503,Next Greater Element II,Medium,N,N
+504,Base 7,Easy,N,N
+506,Relative Ranks,Easy,N,N
+507,Perfect Number,Easy,N,N
+508,Most Frequent Subtree Sum,Medium,N,N
+509,Fibonacci Number,Easy,N,N
+513,Find Bottom Left Tree Value,Medium,N,N
+514,Freedom Trail,Hard,N,N
+515,Find Largest Value In Each Tree Row,Medium,N,N
+516,Longest Palindromic Subsequence,Medium,N,N
+517,Super Washing Machines,Hard,N,N
+518,Coin Change II,Medium,N,N
+519,Random Flip Matrix,Medium,N,N
+520,Detect Capital,Easy,N,N
+521,Longest Uncommon Subsequence I,Easy,N,N
+522,Longest Uncommon Subsequence II,Medium,N,N
+523,Continuous Subarray Sum,Medium,N,N
+524,Longest Word In Dictionary Through Deleting,Medium,N,N
+525,Contiguous Array,Medium,N,N
+526,Beautiful Arrangement,Medium,N,N
+528,Random Pick With Weight,Medium,N,N
+529,Minesweeper,Medium,N,N
+530,Minimum Absolute Difference In BST,Easy,N,Y
+532,K-Diff Pairs In An Array,Medium,N,N
+535,Encode And Decode TinyURL,Medium,N,N
+537,Complex Number Multiplication,Medium,N,N
+538,Convert BST To Greater Tree,Medium,N,N
+539,Minimum Time Difference,Medium,N,N
+540,Single Element In A Sorted Array,Medium,N,N
+541,Reverse String II,Easy,N,N
+542,01 Matrix,Medium,N,N
+543,Diameter Of Binary Tree,Easy,N,N
+546,Remove Boxes,Hard,N,N
+547,Number Of Provinces,Medium,Y,N
+551,Student Attendance Record I,Easy,N,N
+552,Student Attendance Record II,Hard,N,N
+553,Optimal Division,Medium,N,N
+554,Brick Wall,Medium,N,N
+556,Next Greater Element III,Medium,N,N
+557,Reverse Words In A String III,Easy,N,N
+558,Logical Or Of Two Binary Grids Represented As Quad-Trees,Medium,N,N
+559,Maximum Depth Of N-Ary Tree,Easy,N,N
+560,Subarray Sum Equals K,Medium,N,N
+561,Array Partition I,Easy,N,N
+563,Binary Tree Tilt,Easy,N,N
+564,Find The Closest Palindrome,Hard,N,N
+565,Array Nesting,Medium,N,N
+566,Reshape The Matrix,Easy,N,N
+567,Permutation In String,Medium,N,N
+572,Subtree Of Another Tree,Easy,N,N
+575,Distribute Candies,Easy,N,N
+576,Out Of Boundary Paths,Medium,N,N
+581,Shortest Unsorted Continuous Subarray,Medium,N,N
+583,Delete Operation For Two Strings,Medium,N,N
+587,Erect The Fence,Hard,N,N
+589,N-Ary Tree Preorder Traversal,Easy,N,N
+590,N-Ary Tree Postorder Traversal,Easy,N,N
+591,Tag Validator,Hard,N,N
+592,Fraction Addition And Subtraction,Medium,N,N
+593,Valid Square,Medium,N,N
+594,Longest Harmonious Subsequence,Easy,N,N
+598,Range Addition II,Easy,N,N
+599,Minimum Index Sum Of Two Lists,Easy,N,N
+600,Non-Negative Integers Without Consecutive Ones,Hard,N,N
+605,Can Place Flowers,Easy,Y,N
+606,Construct String From Binary Tree,Easy,N,N
+609,Find Duplicate File In System,Medium,N,N
+611,Valid Triangle Number,Medium,N,N
+617,Merge Two Binary Trees,Easy,N,N
+621,Task Scheduler,Medium,N,N
+622,Design Circular Queue,Medium,N,N
+623,Add One Row To Tree,Medium,N,N
+628,Maximum Product Of Three Numbers,Easy,N,N
+629,K Inverse Pairs Array,Hard,N,N
+630,Course Schedule III,Hard,N,N
+632,Smallest Range Covering Elements From K Lists,Hard,N,N
+633,Sum Of Square Numbers,Medium,N,N
+636,Exclusive Time Of Functions,Medium,N,N
+637,Average Of Levels In Binary Tree,Easy,N,Y
+638,Shopping Offers,Medium,N,N
+639,Decode Ways II,Hard,N,N
+640,Solve The Equation,Medium,N,N
+641,Design Circular Deque,Medium,N,N
+643,Maximum Average Subarray I,Easy,Y,N
+645,Set Mismatch,Easy,N,N
+646,Maximum Length Of Pair Chain,Medium,N,N
+647,Palindromic Substrings,Medium,N,N
+648,Replace Words,Medium,N,N
+649,Dota2 Senate,Medium,Y,N
+650,2 Keys Keyboard,Medium,N,N
+652,Find Duplicate Subtrees,Medium,N,N
+653,Two Sum IV - Input Is A BST,Easy,N,N
+654,Maximum Binary Tree,Medium,N,N
+655,Print Binary Tree,Medium,N,N
+657,Robot Return To Origin,Easy,N,N
+658,Find K Closest Elements,Medium,N,N
+659,Split Array Into Consecutive Subsequences,Medium,N,N
+661,Image Smoother,Easy,N,N
+662,Maximum Width Of Binary Tree,Medium,N,N
+664,Strange Printer,Hard,N,N
+665,Non-Decreasing Array,Medium,N,N
+667,Beautiful Arrangement II,Medium,N,N
+668,Kth Smallest Number In Multiplication Table,Hard,N,N
+669,Trim A Binary Search Tree,Medium,N,N
+670,Maximum Swap,Medium,N,N
+671,Second Minimum Node In A Binary Tree,Easy,N,N
+672,Bulb Switcher II,Medium,N,N
+673,Number Of Longest Increasing Subsequence,Medium,N,N
+674,Longest Continuous Increasing Subsequence,Easy,N,N
+675,Cut Off Trees For Golf Event,Hard,N,N
+676,Implement Magic Dictionary,Medium,N,N
+677,Map Sum Pairs,Medium,N,N
+678,Valid Parenthesis String,Medium,N,N
+679,24 Game,Hard,N,N
+680,Valid Palindrome II,Easy,N,N
+682,Baseball Game,Easy,N,N
+684,Redundant Connection,Medium,N,N
+685,Redundant Connection II,Hard,N,N
+686,Repeated String Match,Medium,N,N
+687,Longest Univalue Path,Medium,N,N
+688,Knight Probability In Chessboard,Medium,N,N
+689,Maximum Sum Of 3 Non-Overlapping Subarrays,Hard,N,N
+690,Employee Importance,Medium,N,N
+691,Stickers To Spell Word,Hard,N,N
+692,Top K Frequent Words,Medium,N,N
+693,Binary Number With Alternating Bits,Easy,N,N
+695,Max Area Of Island,Medium,N,N
+696,Count Binary Substrings,Easy,N,N
+697,Degree Of An Array,Easy,N,N
+698,Partition To K Equal Sum Subsets,Medium,N,N
+699,Falling Squares,Hard,N,N
+700,Search In A Binary Search Tree,Easy,Y,N
+701,Insert Into A Binary Search Tree,Medium,N,N
+703,Kth Largest Element In A Stream,Easy,N,N
+704,Binary Search,Easy,Y,Y
+705,Design Hashset,Easy,N,N
+706,Design Hashmap,Easy,N,N
+707,Design Linked List,Medium,N,N
+709,To Lower Case,Easy,N,N
+710,Random Pick With Blacklist,Hard,N,N
+712,Minimum Ascii Delete Sum For Two Strings,Medium,N,N
+713,Subarray Product Less Than K,Medium,N,N
+714,Best Time To Buy And Sell Stock With Transaction Fee,Medium,Y,N
+715,Range Module,Hard,N,N
+717,1-Bit And 2-Bit Characters,Easy,N,N
+718,Maximum Length Of Repeated Subarray,Medium,N,N
+719,Find K-Th Smallest Pair Distance,Hard,N,N
+720,Longest Word In Dictionary,Easy,N,N
+721,Accounts Merge,Medium,N,N
+722,Remove Comments,Medium,N,N
+724,Find Pivot Index,Easy,Y,N
+725,Split Linked List In Parts,Medium,N,N
+726,Number Of Atoms,Hard,N,N
+728,Self Dividing Numbers,Easy,N,N
+729,My Calendar I,Medium,N,N
+730,Count Different Palindromic Subsequences,Hard,N,N
+731,My Calendar II,Medium,N,N
+732,My Calendar III,Hard,N,N
+733,Flood Fill,Easy,N,N
+735,Asteroid Collision,Medium,Y,N
+736,Parse Lisp Expression,Hard,N,N
+738,Monotone Increasing Digits,Medium,N,N
+739,Daily Temperatures,Medium,Y,N
+740,Delete And Earn,Medium,N,N
+741,Cherry Pickup,Hard,N,N
+743,Network Delay Time,Medium,N,N
+744,Find Smallest Letter Greater Than Target,Easy,N,N
+745,Prefix And Suffix Search,Hard,N,N
+746,Min Cost Climbing Stairs,Easy,Y,N
+747,Largest Number At Least Twice Of Others,Easy,N,N
+748,Shortest Completing Word,Easy,N,N
+749,Contain Virus,Hard,N,N
+752,Open The Lock,Medium,N,N
+753,Cracking The Safe,Hard,N,N
+754,Reach A Number,Medium,N,N
+756,Pyramid Transition Matrix,Medium,N,N
+757,Set Intersection Size At Least Two,Hard,N,N
+761,Special Binary String,Hard,N,N
+762,Prime Number Of Set Bits In Binary Representation,Easy,N,N
+763,Partition Labels,Medium,N,N
+764,Largest Plus Sign,Medium,N,N
+765,Couples Holding Hands,Hard,N,N
+766,Toeplitz Matrix,Easy,N,N
+767,Reorganize String,Medium,N,N
+768,Max Chunks To Make Sorted II,Hard,N,N
+769,Max Chunks To Make Sorted,Medium,N,N
+770,Basic Calculator IV,Hard,N,N
+771,Jewels And Stones,Easy,N,N
+773,Sliding Puzzle,Hard,N,N
+775,Global And Local Inversions,Medium,N,N
+777,Swap Adjacent In LR String,Medium,N,N
+778,Swim In Rising Water,Hard,N,N
+779,K-Th Symbol In Grammar,Medium,N,N
+780,Reaching Points,Hard,N,N
+781,Rabbits In Forest,Medium,N,N
+782,Transform To Chessboard,Hard,N,N
+783,Minimum Distance Between Bst Nodes,Easy,N,N
+784,Letter Case Permutation,Medium,N,N
+785,Is Graph Bipartite?,Medium,N,N
+786,K-Th Smallest Prime Fraction,Hard,N,N
+787,Cheapest Flights Within K Stops,Medium,N,N
+788,Rotated Digits,Medium,N,N
+789,Escape The Ghosts,Medium,N,N
+790,Domino And Tromino Tiling,Medium,Y,N
+791,Custom Sort String,Medium,N,N
+792,Number Of Matching Subsequences,Medium,N,N
+793,Preimage Size Of Factorial Zeroes Function,Hard,N,N
+794,Valid Tic-Tac-Toe State,Medium,N,N
+795,Number Of Subarrays With Bounded Maximum,Medium,N,N
+796,Rotate String,Easy,N,N
+797,All Paths From Source To Target,Medium,N,N
+798,Smallest Rotation With Highest Score,Hard,N,N
+799,Champagne Tower,Medium,N,N
+801,Minimum Swaps To Make Sequences Increasing,Hard,N,N
+802,Find Eventual Safe States,Medium,N,N
+803,Bricks Falling When Hit,Hard,N,N
+804,Unique Morse Code Words,Easy,N,N
+805,Split Array With Same Average,Hard,N,N
+806,Number Of Lines To Write String,Easy,N,N
+807,Max Increase To Keep City Skyline,Medium,N,N
+808,Soup Servings,Medium,N,N
+809,Expressive Words,Medium,N,N
+810,Chalkboard Xor Game,Hard,N,N
+811,Subdomain Visit Count,Medium,N,N
+812,Largest Triangle Area,Easy,N,N
+813,Largest Sum Of Averages,Medium,N,N
+814,Binary Tree Pruning,Medium,N,N
+815,Bus Routes,Hard,N,N
+816,Ambiguous Coordinates,Medium,N,N
+817,Linked List Components,Medium,N,N
+818,Race Car,Hard,N,N
+819,Most Common Word,Easy,N,N
+820,Short Encoding Of Words,Medium,N,N
+821,Shortest Distance To A Character,Easy,N,N
+822,Card Flipping Game,Medium,N,N
+823,Binary Trees With Factors,Medium,N,N
+824,Goat Latin,Easy,N,N
+825,Friends Of Appropriate Ages,Medium,N,N
+826,Most Profit Assigning Work,Medium,N,N
+827,Making A Large Island,Hard,N,N
+828,Count Unique Characters Of All Substrings Of A Given String,Hard,N,N
+829,Consecutive Numbers Sum,Hard,N,N
+830,Positions Of Large Groups,Easy,N,N
+831,Masking Personal Information,Medium,N,N
+832,Flipping An Image,Easy,N,N
+833,Find And Replace In String,Medium,N,N
+834,Sum Of Distances In Tree,Hard,N,N
+835,Image Overlap,Medium,N,N
+836,Rectangle Overlap,Easy,N,N
+837,New 21 Game,Medium,N,N
+838,Push Dominoes,Medium,N,N
+839,Similar String Groups,Hard,N,N
+840,Magic Squares In Grid,Medium,N,N
+841,Keys And Rooms,Medium,Y,N
+842,Split Array Into Fibonacci Sequence,Medium,N,N
+843,Guess The Word,Hard,N,N
+844,Backspace String Compare,Easy,N,N
+845,Longest Mountain In Array,Medium,N,N
+846,Hand Of Straights,Medium,N,N
+847,Shortest Path Visiting All Nodes,Hard,N,N
+848,Shifting Letters,Medium,N,N
+849,Maximize Distance To Closest Person,Medium,N,N
+850,Rectangle Area II,Hard,N,N
+851,Loud And Rich,Medium,N,N
+852,Peak Index In A Mountain Array,Easy,N,N
+853,Car Fleet,Medium,N,N
+854,K-Similar Strings,Hard,N,N
+855,Exam Room,Medium,N,N
+856,Score Of Parentheses,Medium,N,N
+857,Minimum Cost To Hire K Workers,Hard,N,N
+858,Mirror Reflection,Medium,N,N
+859,Buddy Strings,Easy,N,N
+860,Lemonade Change,Easy,N,N
+861,Score After Flipping Matrix,Medium,N,N
+862,Shortest Subarray With Sum At Least K,Hard,N,N
+863,All Nodes Distance K In Binary Tree,Medium,N,N
+864,Shortest Path To Get All Keys,Hard,N,N
+865,Smallest Subtree With All The Deepest Nodes,Medium,N,N
+866,Prime Palindrome,Medium,N,N
+867,Transpose Matrix,Easy,N,N
+868,Binary Gap,Easy,N,N
+869,Reordered Power Of 2,Medium,N,N
+870,Advantage Shuffle,Medium,N,N
+871,Minimum Number Of Refueling Stops,Hard,N,N
+872,Leaf-Similar Trees,Easy,Y,N
+873,Length Of Longest Fibonacci Subsequence,Medium,N,N
+874,Walking Robot Simulation,Medium,N,N
+875,Koko Eating Bananas,Medium,Y,N
+876,Middle Of The Linked List,Easy,N,N
+877,Stone Game,Medium,N,N
+878,Nth Magical Number,Hard,N,N
+879,Profitable Schemes,Hard,N,N
+880,Decoded String At Index,Medium,N,N
+881,Boats To Save People,Medium,N,N
+882,Reachable Nodes In Subdivided Graph,Hard,N,N
+883,Projection Area Of 3D Shapes,Easy,N,N
+884,Uncommon Words From Two Sentences,Easy,N,N
+885,Spiral Matrix III,Medium,N,N
+886,Possible Bipartition,Medium,N,N
+887,Super Egg Drop,Hard,N,N
+888,Fair Candy Swap,Easy,N,N
+889,Construct Binary Tree From Preorder And Postorder Traversal,Medium,N,N
+890,Find And Replace Pattern,Medium,N,N
+891,Sum Of Subsequence Widths,Hard,N,N
+892,Surface Area Of 3D Shapes,Easy,N,N
+893,Groups Of Special-Equivalent Strings,Medium,N,N
+894,All Possible Full Binary Trees,Medium,N,N
+895,Maximum Frequency Stack,Hard,N,N
+896,Monotonic Array,Easy,N,N
+897,Increasing Order Search Tree,Easy,N,N
+898,Bitwise Ors Of Subarrays,Medium,N,N
+899,Orderly Queue,Hard,N,N
+900,Rle Iterator,Medium,N,N
+901,Online Stock Span,Medium,Y,N
+902,Numbers At Most N Given Digit Set,Hard,N,N
+903,Valid Permutations For DI Sequence,Hard,N,N
+904,Fruit Into Baskets,Medium,N,N
+905,Sort Array By Parity,Easy,N,N
+906,Super Palindromes,Hard,N,N
+907,Sum Of Subarray Minimums,Medium,N,N
+908,Smallest Range I,Easy,N,N
+909,Snakes And Ladders,Medium,N,Y
+910,Smallest Range II,Medium,N,N
+911,Online Election,Medium,N,N
+912,Sort An Array,Medium,N,N
+913,Cat And Mouse,Hard,N,N
+914,X Of A Kind In A Deck Of Cards,Easy,N,N
+915,Partition Array Into Disjoint Intervals,Medium,N,N
+916,Word Subsets,Medium,N,N
+917,Reverse Only Letters,Easy,N,N
+918,Maximum Sum Circular Subarray,Medium,N,Y
+919,Complete Binary Tree Inserter,Medium,N,N
+920,Number Of Music Playlists,Hard,N,N
+921,Minimum Add To Make Parentheses Valid,Medium,N,N
+922,Sort Array By Parity II,Easy,N,N
+923,3Sum With Multiplicity,Medium,N,N
+924,Minimize Malware Spread,Hard,N,N
+925,Long Pressed Name,Easy,N,N
+926,Flip String To Monotone Increasing,Medium,N,N
+927,Three Equal Parts,Hard,N,N
+928,Minimize Malware Spread II,Hard,N,N
+929,Unique Email Addresses,Easy,N,N
+930,Binary Subarrays With Sum,Medium,N,N
+931,Minimum Falling Path Sum,Medium,N,N
+932,Beautiful Array,Medium,N,N
+933,Number Of Recent Calls,Easy,Y,N
+934,Shortest Bridge,Medium,N,N
+935,Knight Dialer,Medium,N,N
+936,Stamping The Sequence,Hard,N,N
+937,Reorder Data In Log Files,Easy,N,N
+938,Range Sum Of BST,Easy,N,N
+939,Minimum Area Rectangle,Medium,N,N
+940,Distinct Subsequences II,Hard,N,N
+941,Valid Mountain Array,Easy,N,N
+942,DI String Match,Easy,N,N
+943,Find The Shortest Superstring,Hard,N,N
+944,Delete Columns To Make Sorted,Easy,N,N
+945,Minimum Increment To Make Array Unique,Medium,N,N
+946,Validate Stack Sequences,Medium,N,N
+947,Most Stones Removed With Same Row Or Column,Medium,N,N
+948,Bag Of Tokens,Medium,N,N
+949,Largest Time For Given Digits,Medium,N,N
+950,Reveal Cards In Increasing Order,Medium,N,N
+951,Flip Equivalent Binary Trees,Medium,N,N
+952,Largest Component Size By Common Factor,Hard,N,N
+953,Verifying An Alien Dictionary,Easy,N,N
+954,Array Of Doubled Pairs,Medium,N,N
+955,Delete Columns To Make Sorted II,Medium,N,N
+956,Tallest Billboard,Hard,N,N
+957,Prison Cells After N Days,Medium,N,N
+958,Check Completeness Of A Binary Tree,Medium,N,N
+959,Regions Cut By Slashes,Medium,N,N
+960,Delete Columns To Make Sorted III,Hard,N,N
+961,N-Repeated Element In Size 2N Array,Easy,N,N
+962,Maximum Width Ramp,Medium,N,N
+963,Minimum Area Rectangle II,Medium,N,N
+964,Least Operators To Express Number,Hard,N,N
+965,Univalued Binary Tree,Easy,N,N
+966,Vowel Spellchecker,Medium,N,N
+967,Numbers With Same Consecutive Differences,Medium,N,N
+968,Binary Tree Cameras,Hard,N,N
+969,Pancake Sorting,Medium,N,N
+970,Powerful Integers,Medium,N,N
+971,Flip Binary Tree To Match Preorder Traversal,Medium,N,N
+972,Equal Rational Numbers,Hard,N,N
+973,K Closest Points To Origin,Medium,N,N
+974,Subarray Sum Divisible By K,Medium,N,N
+975,Odd Even Jump,Hard,N,N
+976,Largest Perimeter Triangle,Easy,N,N
+977,Squares Of A Sorted Array,Easy,N,N
+978,Longest Turbulent Subarray,Medium,N,N
+979,Distribute Coins In Binary Tree,Medium,N,N
+980,Unique Paths III,Hard,N,N
+981,Time Based Key-Value Store,Medium,N,N
+982,Triples With Bitwise And Equal To Zero,Hard,N,N
+983,Minimum Cost For Tickets,Medium,N,N
+984,String Without Aaa Or Bbb,Medium,N,N
+985,Sum Of Even Numbers After Queries,Medium,N,N
+986,Interval List Intersections,Medium,N,N
+987,Vertical Order Traversal Of A Binary Tree,Hard,N,N
+988,Smallest String Starting From Leaf,Medium,N,N
+989,Add To Array-Form Of Integer,Easy,N,N
+990,Satisfiability Of Equality Equations,Medium,N,N
+991,Broken Calculator,Medium,N,N
+992,Subarrays With K Different Integers,Hard,N,N
+993,Cousins In Binary Tree,Easy,N,N
+994,Rotting Oranges,Medium,Y,N
+995,Minimum Number Of K Consecutive Bit Flips,Hard,N,N
+996,Number Of Squareful Arrays,Hard,N,N
+997,Find The Town Judge,Easy,N,N
+998,Maximum Binary Tree II,Medium,N,N
+999,Available Captures For Rook,Easy,N,N
+1000,Minimum Cost To Merge Stones,Hard,N,N
+1023,Camelcase Matching,Medium,N,N
+1032,Stream Of Characters,Hard,N,N
+1099,Two Sum Less Than K,Easy,N,N
+1213,Intersection Of Three Sorted Arrays,Easy,N,N
+1224,Maximum Equal Frequency,Hard,N,N
+1438,Longest Continuous Subarray With Absolute Diff Less Than Or Equal To Limit,Medium,N,N
+1521,Number Of Good Pairs,Easy,N,N
+1539,Kth Missing Positive Number,Easy,N,N
+1539,Kth Missing Positive Number,Easy,N,N
+1748,Sum Of Unique Elements,Easy,N,N
+1812,Determine Color Of A Chessboard Square,Easy,N,N
+1902,Depth of BST Given Insertion Order,Medium,N,N
+1999,Smallest Greater Multiple Made of Two Digits,Medium,N,N
+2000,Reverse Prefix of Word,Easy,N,N
+175,Combine Two Tables,Easy,N,N
+176,Second Highest Salary,Easy,N,N
+177,Nth Highest Salary,Medium,N,N
+178,Rank Scores,Medium,N,N
+180,Consecutive Numbers,Medium,N,N
+181,Employees Earning More Than Their Managers,Easy,N,N
+182,Duplicate Emails,Easy,N,N
+183,Customers Who Never Order,Easy,N,N
+184,Department Highest Salary,Medium,N,N
+185,Department Top Three Salaries,Hard,N,N
+196,Delete Duplicate Emails,Easy,N,N
+197,Rising Temperature,Easy,N,N
+262,Trips And Users,Hard,N,N
+511,Game Play Analysis I,Easy,N,N
+512,Game Play Analysis II,Easy,N,N
+534,Game Play Analysis III,Medium,N,N
+550,Game Play Analysis IV,Medium,N,N
+569,Median Employee Salary,Hard,N,N
+570,Managers With At Least 5 Direct Reports,Medium,N,N
+571,Find Median Given Frequency Of Numbers,Hard,N,N
+574,Winning Candidate,Medium,N,N
+577,Employee Bonus,Easy,N,N
+578,Get Highest Answer Rate Question,Medium,N,N
+579,Find Cumulative Salary Of An Employee,Hard,N,N
+580,Count Student Number In Departments,Medium,N,N
+584,Find Customer Referee,Easy,N,N
+585,Investments In 2016,Medium,N,N
+586,Customer Placing The Largest Number Of Orders,Easy,N,N
+595,Big Countries,Easy,N,N
+596,Classes More Than 5 Students,Easy,N,N
+597,Friend Requests I: Overall Acceptance Rate,Easy,N,N
+601,Human Traffic Of Stadium,Hard,N,N
+602,Friend Requests II: Who Has The Most Friends,Medium,N,N
+603,Consecutive Available Seats,Easy,N,N
+607,Sales Person,Easy,N,N
+608,Tree Node,Medium,N,N
+610,Triangle Judgement,Easy,N,N
+612,Shortest Distance In A Plane,Medium,N,N
+613,Shortest Distance In A Line,Easy,N,N
+614,Second Degree Follower,Medium,N,N
+615,Average Salary: Departments VS Company,Hard,N,N
+618,Students Report By Geography,Hard,N,N
+619,Biggest Single Number,Easy,N,N
+620,Not Boring Movies,Easy,N,N
+626,Exchange Seats,Medium,N,N
+627,Swap Salary,Easy,N,N
+1045,Customers Who Bought All Products,Medium,N,N
+1050,Actors And Directors Who Cooperated At Least Three Times,Easy,N,N
+1068,Product Sales Analysis I,Easy,N,N
+1069,Product Sales Analysis II,Easy,N,N
+1070,Product Sales Analysis III,Medium,N,N
+1075,Project Employees I,Easy,N,N
+1076,Project Employees II,Easy,N,N
+1077,Project Employees III,Medium,N,N
+1082,Sales Analysis I,Easy,N,N
+1083,Sales Analysis II,Easy,N,N
+1084,Sales Analysis III,Easy,N,N
+1097,Game Play Analysis V,Hard,N,N
+1098,Unpopular Books,Medium,N,N
+1107,New Users Daily Count,Medium,N,N
+1112,Highest Grade For Each Student,Medium,N,N
+1113,Reported Posts,Easy,N,N
+1126,Active Business,Medium,N,N
+1127,User Purchase Platform,Hard,N,N
+1132,Reported Posts II,Medium,N,N
+1141,User Activity For The Past 30 Days I,Easy,N,N
+1142,User Activity For The Past 30 Days II,Easy,N,N
+1148,Article Views I,Easy,N,N
+1149,Article Views II,Medium,N,N
+1158,Market Analysis I,Medium,N,N
+1159,Market Analysis II,Hard,N,N
+1164,Product Price At A Given Date,Medium,N,N
+1173,Immediate Food Delivery I,Easy,N,N
+1174,Immediate Food Delivery II,Medium,N,N
+1179,Reformat Department Table,Easy,N,N
+1193,Monthly Transactions I,Medium,N,N
+1194,Tournament Winners,Hard,N,N
+1204,Last Person To Fit In The Elevator,Medium,N,N
+1205,Monthly Transactions II,Medium,N,N
+1211,Queries Quality And Percentage,Easy,N,N
+1212,Team Scores In Football Tournament,Medium,N,N
+1225,Report Contiguous Dates,Hard,N,N
+1241,Number Of Comments Per Post,Easy,N,N
+1251,Average Selling Price,Easy,N,N
+1264,Page Recommendations,Medium,N,N
+1270,All People Report To The Given Manager,Medium,N,N
+1280,Students And Examinations,Easy,N,N
+1285,Find The Start And End Number Of Continuous Ranges,Medium,N,N
+1294,Weather Type In Each Country,Easy,N,N
+1303,Find The Team Size,Easy,N,N
+1308,Running Total For Different Genders,Medium,N,N
+1321,Restaurant Growth,Medium,N,N
+1322,Ads Performance,Easy,N,N
+1327,List The Products Ordered In A Period,Easy,N,N
+1336,Number Of Transactions Per Visit,Hard,N,N
+1341,Movie Rating,Medium,N,N
+1350,Students With Invalid Departments,Easy,N,N
+1355,Activity Participants,Medium,N,N
+1364,Number Of Trusted Contacts Of A Customer,Medium,N,N
+1369,Get The Second Most Recent Activity,Hard,N,N
+1378,Replace Employee ID With The Unique Identifier,Easy,N,N
+1384,Total Sales Amount By Year,Hard,N,N
+1393,Capital Gain/Loss,Medium,N,N
+1398,Customers Who Bought Products A And B But Not C,Medium,N,N
+1407,Top Travellers,Easy,N,N
+1412,Find The Quiet Students In All Exams,Hard,N,N
+1421,NPV Queries,Medium,N,N
+1435,Create A Session Bar Chart,Easy,N,N
+1440,Evaluate Boolean Expression,Medium,N,N
+1445,Apples & Oranges,Medium,N,N
+1454,Active Users,Medium,N,N
+1459,Rectangles Area,Medium,N,N
+1468,Calculate Salaries,Medium,N,N
+1479,Sales By Day Of The Week,Hard,N,N
+1484,Group Sold Products By The Date,Easy,N,N
+1495,Friendly Movies Streamed Last Month,Easy,N,N
+1501,Countries You Can Safely Invest In,Medium,N,N
+1511,Customer Order Frequency,Easy,N,N
+1517,Find Users With Valid Emails,Easy,N,N
+1527,Patients With A Condition,Easy,N,N
+1532,The Most Recent Three Orders,Medium,N,N
+1543,Fix Product Name Format,Easy,N,N
+1549,The Most Recent Orders For Each Product,Medium,N,N
+1555,Bank Account Summary,Medium,N,N
+1565,Unique Orders And Customers Per Month,Easy,N,N
+1571,Warehouse Manager,Easy,N,N
+1581,Customer Who Visited But Did Not Make Any Transactions,Easy,N,N
+1587,Bank Account Summary II,Easy,N,N
+1596,The Most Frequently Ordered Products For Each Customer,Medium,N,N
+1607,Sellers With No Sales,Easy,N,N
+1613,Find The Missing IDs,Medium,N,N
+1623,All Valid Triplets That Can Represent A Country,Easy,N,N
+1633,Percentage Of Users Attended A Contest,Easy,N,N
+1635,Hopper Company Queries I,Hard,N,N
+1645,Hopper Company Queries II,Hard,N,N
+1651,Hopper Company Queries III,Hard,N,N
+1661,Average Time Of Process Per Machine,Easy,N,N
+1667,Fix Names In A Table,Easy,N,N
+1677,Product’s Worth Over Invoices,Easy,N,N
+1683,Invalid Tweets,Easy,N,N
+1693,Daily Leads And Partners,Easy,N,N
+1699,Number Of Calls Between Two Persons,Medium,N,N
+1709,Biggest Window Between Visits,Medium,N,N
+1715,Count Apples And Oranges,Medium,N,N
+1729,Find Followers Count,Easy,N,N
+1731,The Number Of Employees Which Report To Each Employee,Easy,N,N
+1741,Find Total Time Spent By Each Employee,Easy,N,N
+1747,Leetflex Banned Accounts,Medium,N,N
+1757,Recyclable And Low Fat Products,Easy,N,N
+1767,Find The Subtasks That Did Not Execute,Hard,N,N
+1777,Product’s Price For Each Store,Easy,N,N
+1783,Grand Slam Titles,Medium,N,N
+1789,Primary Department For Each Employee,Easy,N,N
+1795,Rearrange Products Table,Easy,N,N
+1809,Ad-Free Sessions Table,Easy,N,N
+1811,Find Interview Candidates,Medium,N,N
+1821,Find Customers With Positive Revenue this Year,Easy,N,N
+1831,Maximum Transaction Each Day,Medium,N,N
+1841,League Statistics,Medium,N,N
+1843,Suspicious Bank Accounts,Medium,N,N
+1853,Convert Date Format,Easy,N,N
+1867,Orders With Maximum Quantity Above Average,Medium,N,N
+1873,Calculate Special Bonus,Easy,N,N
+1875,Group Employees of the Same Salary,Medium,N,N
+1890,The Latest Login in 2020,Easy,N,N
+1892,Page Recommendations II,Hard,N,N
+1907,Count Salary Categories,Medium,N,N
+1917,Leetcodify Friends Recommendations,Hard,N,N
+1919,Leetcodify Similar Friends,Hard,N,N
+1934,Confirmation Rate,Medium,N,N
+1939,Users That Actively Request Confirmation Messages,Easy,N,N
+1949,Strong Friendship,Medium,N,N
+1951,All the Pairs With the Maximum Number of Common Followers,Medium,N,N
+1965,Employees With Missing Information,Easy,N,N
+1972,First and Last Call On the Same Day,Hard,N,N
+1978,Employees Whose Manager Left the Company,Easy,N,N
+1988,Find Cutoff Score for Each School,Medium,N,N
+1990,Count the Number of Experiments,Medium,N,N
