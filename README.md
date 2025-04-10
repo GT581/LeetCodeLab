@@ -6,9 +6,9 @@ This repository will contain solutions to various LeetCode problems organized by
 
 Solutions will be organized into three main directories based on difficulty:
 
-- [`Easy/`](./LeetCode_Solutions/Easy)
-- [`Medium/`](./LeetCode_Solutions/Medium)
-- [`Hard/`](./LeetCode_Solutions/Hard)
+- [`Easy/`](./Solutions/Easy)
+- [`Medium/`](./Solutions/Medium)
+- [`Hard/`](./Solutions/Hard)
 
 ## Planned Solution Format
 
