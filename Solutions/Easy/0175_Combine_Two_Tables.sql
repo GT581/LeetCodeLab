@@ -40,10 +40,23 @@ Return the result table in any order.
 
 */
 
-
+-- Solution
+SELECT 
+    p.firstName,
+    p.lastName,
+    a.city,
+    a.state
+FROM 
+    Person p
+LEFT JOIN 
+    Address a
+ON 
+    p.personId = a.personId;
 
 /*
 Explanation:
 
+1. Use a LEFT JOIN because we want all people to show up, even if they don't have an address.
+2. If a match is found in the Address table, the city and state will be filled, otherwise they will be NULL.
 
 */
