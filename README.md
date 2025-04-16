@@ -1,6 +1,8 @@
 # LeetCode Solutions
 
-This repository will contain solutions to various LeetCode problems organized by difficulty level. Each solution will be in Python with explanations of both the approach and time and space complexity.
+This repository will contain solutions to various LeetCode problems organized by difficulty level. 
+- Each algorithm solution will be in Python, with explanations of both the approach and time and space complexity.
+- Each database solution will be written in SQL, with explanations of the approach.
 
 ## Structure
 
