@@ -167,7 +167,7 @@ Problem Number,Problem Name,Difficulty,Top 75,Top 150,DB 50,Database
 173,Binary Search Tree Iterator,Medium,N,Y,N,N
 174,Dungeon Game,Hard,N,N,N,N
 175,Combine Two Tables,Easy,N,N,N,Y
-176,Second Highest Salary,Easy,N,N,Y,Y
+176,Second Highest Salary,Medium,N,N,Y,Y
 177,Nth Highest Salary,Medium,N,N,N,Y
 178,Rank Scores,Medium,N,N,N,Y
 179,Largest Number,Medium,N,N,N,N
