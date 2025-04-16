@@ -32,6 +32,8 @@ This file contains:
 - Difficulty Level
 - Top 75 Flag (Y/N): Indicates if the problem is part of the "Blind 75" list of top interview questions
 - Top 150 Flag (Y/N): Indicates if the problem is part of LeetCode's top 150 interview questions
+- DB 50 Flag (Y/N): Indicates if the problem is part of LeetCode's top 50 SQL / database interview questions
+- Database Flag (Y/N): Indicates if the problem is a SQL / database problem (Y) or an algorithm problem (N)
 
 ## Test / Run Solutions
 
